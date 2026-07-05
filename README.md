@@ -1,6 +1,6 @@
 # New TradingView Charting platform Alternative
 
-# Changelog
+# Changelog (OFFLINE)
 
 ## 2026-06-15
 
